@@ -1,0 +1,19 @@
+Proyecto: LectorDNI – Cambios v0.4
+Fecha: 20/08/2025
+
+Resumen:
+- Parser ahora soporta el formato del Zebra con comillas dobles (") además del oficial con '@'.
+- Acepta fechas en 'dd/MM/yyyy' y 'dd-MM-yyyy'.
+- Normaliza DNI a solo dígitos.
+- Expone Nacionalidad si viene en el QR; si no, la UI establece 'ARGENTINA' por defecto (como solicitaste).
+- MainForm ajustado: mensajes de estado, limpieza y presentación de fecha en 'dd/MM/yyyy' si se pudo parsear.
+
+Archivos incluidos (copiar y reemplazar en tu proyecto):
+- Domain/DniParsed.cs
+- Domain/DniParser.cs
+- MainForm.cs
+- Notas_v0.4.txt
+
+Nota:
+- Esta entrega NO incluye la capa de base de datos. Es compatible con tu proyecto actual.
+- Si ya tenés un repositorio SQLite u Oracle, no se ve afectado por estos cambios.

@@ -1,0 +1,39 @@
+Proyecto: LectorDNI – Cambios v0.4 con SQLite
+Fecha: 20/08/2025
+
+Archivos incluidos (copiar y reemplazar en tu proyecto LectorDNI.Demo):
+- Domain/DniParsed.cs
+- Domain/DniParser.cs
+- Data/SqlitePatientRepository.cs        (NUEVO)
+- MainForm.cs                            (MODIFICADO para Buscar/Guardar)
+
+Requisitos NuGet (agregar al proyecto):
+- Microsoft.Data.Sqlite
+
+Cómo agregar el paquete en Visual Studio 2022:
+1) Botón derecho sobre el proyecto → Administrar paquetes NuGet.
+2) Pestaña Examinar → buscar "Microsoft.Data.Sqlite".
+3) Instalar (versión estable más reciente).
+
+Pasos para aplicar:
+1) Cerrá Visual Studio si está abierto.
+2) Descomprimí este ZIP.
+3) Copiá los archivos en las rutas indicadas y reemplazá los existentes.
+4) Abrí el proyecto en VS 2022.
+5) Instalá el paquete NuGet "Microsoft.Data.Sqlite".
+6) Compilá (Ctrl+Shift+B) y ejecutá (F5).
+
+Uso en la app:
+- "Listo para escanear": enfoca el buffer.
+- "Procesar DNI": parsea la cadena (soporta formato Zebra con comillas y oficial con @).
+- "Buscar en BD": busca por DNI en SQLite local.
+- "Guardar en BD": UPSERT (inserta si no existe; actualiza si existe) en %LOCALAPPDATA%\LectorDNI\pacientes.db.
+
+Notas técnicas:
+- Fechas se guardan en ISO (yyyy-MM-dd) para portabilidad.
+- DNI es único en la tabla.
+- La base se crea automáticamente si no existe.
+
+Sugerencias:
+- Para ver la base: usar "DB Browser for SQLite".
+- Hacer backup: copiar el archivo pacientes.db con la app cerrada.

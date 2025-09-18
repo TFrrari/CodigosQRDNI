@@ -1,0 +1,56 @@
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\OracleConnector.WinFormsApp.exe.config
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\OracleConnector.WinFormsApp.exe
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\OracleConnector.WinFormsApp.pdb
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\Oracle.ManagedDataAccess.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Buffers.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Formats.Asn1.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Memory.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Text.Json.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\QrOracleConnector.Core.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\QrOracleConnector.Core.pdb
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\QrOracleConnector.Core.xml
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.exe.config
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleCo.044E4046.Up2Date
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.exe
+C:\Users\Usuario\Desktop\Tomas Ferrari\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.pdb
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\OracleConnector.WinFormsApp.exe.config
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\OracleConnector.WinFormsApp.exe
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\OracleConnector.WinFormsApp.pdb
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\Oracle.ManagedDataAccess.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Buffers.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Formats.Asn1.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Memory.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Text.Json.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\QrOracleConnector.Core.dll
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\QrOracleConnector.Core.pdb
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\bin\Debug\net48\QrOracleConnector.Core.xml
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.exe.config
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleCo.044E4046.Up2Date
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.exe
+C:\Users\Usuario\Desktop\Tomas Ferrari\0.7 Full\Version_UI\OracleConnector.WinFormsApp\obj\Debug\net48\OracleConnector.WinFormsApp.pdb

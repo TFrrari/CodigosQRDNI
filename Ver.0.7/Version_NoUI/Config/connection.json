@@ -1,0 +1,7 @@
+{
+  "Host": "localhost",
+  "Port": 1521,
+  "ServiceName": "XEPDB1",
+  "UserId": "USR_QR",
+  "Password": "CAMBIAR"
+}

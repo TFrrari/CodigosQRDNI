@@ -1,7 +1,0 @@
-{
-  "Host": "172.10.10.5",
-  "Port": 1521,
-  "ServiceName": "wg",
-  "UserId": "CLINICA",
-  "Password": "rep"
-}

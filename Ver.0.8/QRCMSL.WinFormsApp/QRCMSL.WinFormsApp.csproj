@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>Assets\app_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QRCMSL.Core\QRCMSL.Core.csproj" />
+    <Reference Include="System.Configuration" />
+    <None Include="Assets\app_icon.ico" />
+    <None Include="Assets\company_logo.png" />
+  </ItemGroup>
+</Project>

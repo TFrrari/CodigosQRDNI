@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <AssemblyTitle>QRCMSL Core</AssemblyTitle>
+    <Company>Tomas Ferrari</Company>
+    <Product>QRCMSL</Product>
+    <Authors>Tomas Ferrari</Authors>
+    <Description>Núcleo de acceso a Oracle para QRCMSL</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Oracle.ManagedDataAccess" Version="23.9.1" />
+    <Reference Include="System.Configuration" />
+  </ItemGroup>
+</Project>

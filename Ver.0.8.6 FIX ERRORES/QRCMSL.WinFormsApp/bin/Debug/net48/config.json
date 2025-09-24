@@ -1,0 +1,3 @@
+{
+  "OracleConnection": "User Id=CLINICA;Password=rep;Data Source=172.10.10.5:1521/wg; Connection Timeout=60; Validate Connection=true;"
+}

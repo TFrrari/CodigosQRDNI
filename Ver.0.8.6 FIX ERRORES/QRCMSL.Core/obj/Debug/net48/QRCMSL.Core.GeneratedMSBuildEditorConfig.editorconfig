@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = QRCMSL.Core
+build_property.ProjectDir = C:\Users\tomas\Desktop\Emulacion\QRCMSL_0.8.5_FIXED\QRCMSL.Core\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
